@@ -1,16 +1,21 @@
-### Hi there 👋
+## ☻ Salve! Meu nome é Gabriel Pedroso ☻
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-pedroso-de-almeida-6b7888143)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaah_pedroso/)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7ix5as1pgon92enez6idc3bpz)
 
-<!--
-**Str-GabrielPedroso/Str-GabrielPedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Str-GabrielPedroso&show_icons=true&theme=aura_dark)
+  <br/>
+  <div  align="center"> 
+    <div style="display: inline_block"><br>
+      <img align="left" height="250" alt="coding-time" src="code.gif">
+      <h1 align="center">Tecnologias de conhecimento </h1>
+      <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img align="center" height="30" width="40" alt="c++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+      <img align="center" height="30" width="40" alt="git-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img align="center" height="30" width="40" alt="github-icon" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+     </div>
+  
+  ![Snake animation](https://github.com/Str-GabrielPedroso/Str-GabrielPedroso/blob/output/github-contribution-grid-snake.svg)
