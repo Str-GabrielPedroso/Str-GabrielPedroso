@@ -4,10 +4,12 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7ix5as1pgon92enez6idc3bpz)
 
   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Str-GabrielPedroso&show_icons=true&theme=aura_dark)
+  <img align="high" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Str-GabrielPedroso&layout=compact&langs_count=16&theme=aura_dark"/>
+  
   <br/>
   <div  align="center"> 
     <div style="display: inline_block"><br>
-      <img align="left" height="250" alt="coding-time" src="code.gif">
+      <img align="left" height="250" alt="dinolarDev" src="./DINOLARDEV.png"> <br/><br/>
       <h1 align="center">Tecnologias de conhecimento </h1>
       <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
