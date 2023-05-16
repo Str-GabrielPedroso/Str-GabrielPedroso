@@ -4,7 +4,7 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7ix5as1pgon92enez6idc3bpz)
 
   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Str-GabrielPedroso&show_icons=true&theme=aura_dark)
-  <img align="high" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Str-GabrielPedroso&layout=compact&langs_count=16&theme=aura_dark"/>
+  <img align="high" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Str-GabrielPedroso&layout=compact&langs_count=16&theme=aura_dark"/>
   
   <br/>
   <div  align="center"> 
