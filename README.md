@@ -18,5 +18,8 @@
       <img align="center" height="30" width="40" alt="c++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
       <img align="center" height="30" width="40" alt="git-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
       <img align="center" height="30" width="40" alt="github-icon" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
      </div>
