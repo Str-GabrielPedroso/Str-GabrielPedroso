@@ -21,5 +21,5 @@
       <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
       <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
       <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-      <img align="center" height="30" width="40" alt="github-icon" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+      <img align="center" height="30" width="40" alt="github-icon" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
      </div>
